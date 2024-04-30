@@ -1,1 +1,2 @@
-# LPIA-CPT (TOEIC)
+# LPIA-CPT
+LPIA's TOEIC Prediction Test
